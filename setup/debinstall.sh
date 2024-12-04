@@ -2,7 +2,6 @@
 #
 # Install Debian packages needed to run Odoo.
 
-
 if [ "$1" = "-l" -o "$1" = "--list" ]; then
     cmd="echo"
 else
